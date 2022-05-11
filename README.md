@@ -1,5 +1,10 @@
 # AngularMaterialEjemplo
 
+Ejemplo de proyecto en Angular con un formulario compuesto por un select autocompletado. 
+
+Para más información visita la web https://1938.com.es/ejemplo-angularmaterial
+
+# Información angular por defecto. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
